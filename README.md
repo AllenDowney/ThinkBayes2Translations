@@ -1,6 +1,6 @@
-ThinkBayes2
+ThinkBayes2Translations
 ===========
 
-Text and code for the second edition of Think Bayes, by Allen Downey.
+Code for the second edition of Think Bayes, by Allen Downey.
 
-Note: The code is a version ahead of the book.  I have not started revising the book yet.
+This repository is intended for people working on translations into other programming languages.
